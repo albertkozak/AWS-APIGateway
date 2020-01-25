@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Permanent+Marker|Lato&display=swap");
+
+body {
+  background-color: rgb(22, 22, 22);
+  margin: 0;
+  font-family: "Lato", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: normal;
+  margin: 0 auto;
+  padding: 5rem;
+  color: #8a0f0f;
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-family: "Permanent Marker", sans-serif;
+  color: #b61212;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  color: #ffffffd5;
+}
+
+.rds-title {
+  margin-top: 3rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  width: 55%;
+  margin-bottom: 2rem;
+}
+
+th {
+  color: #ffffffd5;
+}
